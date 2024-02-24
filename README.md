@@ -1,2 +1,2 @@
-# login-com-javascript
+# login-simple-com-javascript
  Interface de Login utilizando JavaScript
