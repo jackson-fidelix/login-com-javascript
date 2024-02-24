@@ -1,2 +1,2 @@
 # simple-login--with-javascript
- Interface de Login utilizando JavaScript
+ Interface básica de Login utilizando JavaScript
